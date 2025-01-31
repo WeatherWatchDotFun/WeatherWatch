@@ -112,6 +112,7 @@ class WeatherWatchAI:
 
 # Example usage
 if __name__ == "__main__":
+    # Replace 'your_api_key_here' with your actual OpenWeatherMap API key
     api_key = 837d08568e825e3c386d635fc8ee3389
     weather_app = WeatherWatchAI(api_key)
 
